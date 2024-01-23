@@ -11,7 +11,7 @@
                 "registration": {
                     "openIdIssuer": "https://login.microsoftonline.com/59efc5bb-bdc5-40d4-bfc4-a0b5e75de33e/v2.0"",
                     "clientIdSettingName": "5b9ab35e-5af9-46a5-8bb3-bfa576f506cd",
-                    "clientSecretSettingName": "d47b9fbe-9f1a-4f40-a6c8-24f41f24fbd0"
+                    "clientSecretSettingName": "AZ_APP_CLIENT_SECRET"
                 }
             }
         }
