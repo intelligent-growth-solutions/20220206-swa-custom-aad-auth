@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>IGS Engineering Blog</title>
+        <link>https://engineering.dev.igs.farm/</link>
+        <description>IGS Engineering blog to share what&#39;s happening with the wider business</description>
+        <generator>Hugo 0.121.2 https://gohugo.io/</generator>
+        
+            <language>en</language>
+        
+        
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+        
+        <lastBuildDate>Tue, 23 Jan 2024 14:32:00 &#43;0000</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://engineering.dev.igs.farm/rss.xml" />
+        
+        
+    </channel>
+</rss>
