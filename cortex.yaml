@@ -1,0 +1,14 @@
+openapi: 3.0.1
+info:
+  title: 20220206 Swa Custom Aad Auth
+  x-cortex-git:
+    github:
+      repository: intelligent-growth-solutions/20220206-swa-custom-aad-auth
+  x-cortex-tag: 20220206-swa-custom-aad-auth
+  x-cortex-type: poc
+  description: This repo is a perfect example of how terroir, language varietal, and
+    coding expertise can come together to create something truly special.
+  x-cortex-owners:
+  - type: group
+    name: intelligent-growth-solutions-platform-team
+    provider: GITHUB
