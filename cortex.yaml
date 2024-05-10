@@ -10,5 +10,5 @@ info:
     coding expertise can come together to create something truly special.
   x-cortex-owners:
   - type: group
-    name: intelligent-growth-solutions-platform-team
+    name: intelligent-growth-solutions/platform-team
     provider: GITHUB
